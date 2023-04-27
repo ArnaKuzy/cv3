@@ -1,0 +1,27 @@
+button {
+    padding: 5px;
+    background-color: beige;
+}
+
+button:hover {
+    background-color: green;
+    color: white;
+    border: 1px dotted black;
+}
+
+#premier {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    height: 500px;
+}
+
+.rouge {
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
